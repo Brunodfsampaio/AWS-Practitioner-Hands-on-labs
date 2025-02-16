@@ -16,3 +16,10 @@
 - Fique atento aos limites da camada gratuita para evitar cobranças inesperadas.
 - Atualize-se regularmente com as últimas práticas recomendadas e novos serviços da AWS.
 - Crie um MFA para sua conta Root.
+
+---
+
+## Organização de Pastas
+- Em cada pasta haverá a descrição do lab assim como, o passo a passo para resolvê-lo e os prints das páginas para servir como guia.
+
+---
