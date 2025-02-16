@@ -26,6 +26,6 @@
 ---
 
 ## Organização de Pastas
-- Em cada pasta haverá a descrição do lab assim como, o passo a passo para resolvê-lo e os prints das páginas para servir como guia.
+- Em cada pasta haverá a descrição do lab assim como, o passo a passo para resolvê-lo e os prints do passo-a-passo para servir como guia.
 
 ---
