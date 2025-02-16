@@ -1,5 +1,11 @@
 # AWS Certified Cloud Practitioner - Free Labs
 
+<div align="center">
+  
+![AWS-Certified-Cloud-Practitioner_badge 634f8a21af2e0e956ed8905a72366146ba22b74c](https://github.com/user-attachments/assets/5e221dd3-951f-42f7-a4b4-d9b83e2425d3)
+
+</div>
+
 - Aqui vou postar laboratórios gratuitos que fiz enquanto estudava para aplicar a certificação.
 
 ---
