@@ -344,5 +344,3 @@ A panel indicates that DELETE has been initiated... You may close this message b
 
 A message Ended AWS Lab Successfully is briefly displayed, indicating that the lab has ended.
 
-## Prints da resolução
-
