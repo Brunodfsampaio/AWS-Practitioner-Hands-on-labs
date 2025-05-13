@@ -22,9 +22,14 @@ Esse passo é bastante autoexplicativo. Vai aparecer a opção **Padrão** já c
 
 ![IMG3](https://github.com/user-attachments/assets/d0ed8b31-08ea-4c1c-a33b-639aa503012f)
 
+---
+
+Nessa parte, eu dei um nome para a minha alerta e escolhi a opção "Orçamento Recorrente", para renovar a cada mês.
 ![IMG4](https://github.com/user-attachments/assets/b0f53b25-3afd-476f-9d5f-b29a29c9889c)
 
 ---
+
+![IMG5](https://github.com/user-attachments/assets/2f9c035e-6bd4-4a2b-8956-2d33e1f4de78)
 
 Na opção **Personalizada**, você poderá configurar o escopo do orçamento, seja para uso geral ou específico (criando filtros como, por exemplo, apenas uso de **EC2**, **S3**, **DynamoDB**, etc.). 
 
