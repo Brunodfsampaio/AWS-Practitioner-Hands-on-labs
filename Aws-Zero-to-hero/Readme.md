@@ -1,4 +1,4 @@
-### Laboratórios prático que vai envolver:?
+### Laboratórios prático que vai envolver:
 1. Criação de vpc's;
 2. Criação de EC's;
 3. Criação de subnet's;
