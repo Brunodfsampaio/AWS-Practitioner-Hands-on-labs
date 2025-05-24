@@ -30,6 +30,7 @@
 
 ## Atenção:
 ![Imagem do WhatsApp de 2025-05-24 à(s) 10 46 38_b46ebe8a](https://github.com/user-attachments/assets/e5db91c6-91db-4eb3-81af-523c7a2c660f)
+---
 isto é, uma instância windows server vai precisar de no mínomo 30gb de espaço na sua criação, com isso, encerrando a opção free tier...
 o ideal é excluir a instância linux, que já possui 8gb de armazenamento em uso....
 
