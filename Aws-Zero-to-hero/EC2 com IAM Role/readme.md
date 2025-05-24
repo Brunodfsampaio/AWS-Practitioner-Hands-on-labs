@@ -32,8 +32,10 @@ e) para abrir, basta selecionar o arquivo e ir em 'open'
 
 
 
+### 3. após feito, exclua tudo que foi feito.
 
 
+stay focused!
 
 
 
