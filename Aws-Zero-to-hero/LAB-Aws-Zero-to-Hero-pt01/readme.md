@@ -36,3 +36,42 @@ o ideal é excluir a instância linux, que já possui 8gb de armazenamento em us
 
 ### EC2 - Windows Server
 
+1. Primeiros passos
+     criei uma nova VPC, EC2 Windows e SG.
+   ![image](https://github.com/user-attachments/assets/ded86655-711f-4165-b670-88aad5cd9be0)
+   ![image](https://github.com/user-attachments/assets/5ed7e726-1353-4436-8ea1-f682344f2049)
+
+2. Passo
+   conectar na instância via console - RDP Client.
+   primeiro, no ato da criação da instância, criei uma chave nova windows e salvei.
+   nessa parte vou clicar para 'obter a senha', inserindo o arquivo baixado na própria console e clicando para ela gerar a senha...
+   ![image](https://github.com/user-attachments/assets/23e6a259-2b7a-4fed-9d2f-5a3eeac8bb4a)
+   ![image](https://github.com/user-attachments/assets/cfa98e2f-4dea-4f00-ac05-40f811fa2235)
+   ![image](https://github.com/user-attachments/assets/38aae28b-30a8-4dee-a24c-61b8bbf4832f)
+   descriptografa e salva.
+   depois, vamos fazer download do arquivo de área de trabalho remota.
+   ![image](https://github.com/user-attachments/assets/e646596e-6f4d-4693-9b69-7f2fc456a127)
+   ![image](https://github.com/user-attachments/assets/1763768c-2c37-4fc1-9686-320c45385c38)
+
+3. Passo
+   instalar o ISS > iniciar > server manager
+   ...vamos esperar ele finalizar e então clicar em add roles...
+   ![image](https://github.com/user-attachments/assets/7a38fb5a-3ac8-4f6b-83f5-962ac7f55c48)
+   em seguida vamos de 'next-next' até habilitar a opção do webserver:
+   ![image](https://github.com/user-attachments/assets/b05f21f7-2fe1-418e-a0dd-c6eb75437f44)
+   ![image](https://github.com/user-attachments/assets/65865511-5873-4490-a73d-7aa35f8836cc)
+
+web server na instância windows rodando!
+
+
+stay focused!
+
+
+
+   
+
+
+
+
+      
+
