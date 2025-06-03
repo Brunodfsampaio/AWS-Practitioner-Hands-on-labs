@@ -1,4 +1,4 @@
-## Não irei gerar o snapshot, pois serei cobrado, porém irei abrir a feature e mostrar as opções!!!
+## Neste lab eu não vou gerar o snapshot da instância, porém irei abrir a feature e mostrar as opções!!!
 
 1. localizar na console:
 ![image](https://github.com/user-attachments/assets/42d550ae-ccca-4784-a6d7-6cb44ea40594)
